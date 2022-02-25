@@ -60,3 +60,7 @@ int main() {
 }
 
 OUTPUT:
+preorder traversal:
+1->12->5->6->9
+postorder traversal:
+5->6->12->9->1
